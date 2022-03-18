@@ -9,4 +9,4 @@ you can take this project as reference and make your own project in your favorit
 #NOTE
 i have used DEV C++ IDE to code this project so i am not sure it will work on other IDEs too. i have tried to run this very same code on VS code but it didn't work and pop up some errors. so yeah heads up for that and i know even if you use different IDE you will make it run. 
 
-BEST OF LUCK GUYS AND I WILL KEEP POSTING BASIC PROJECTS LIKE THIS ONE SO MAKE SURE YOU CHECK HAHAHA AND I NEED FEEDBACKS TOO SO YEAH YOU CAN MESSAGE ME IN FACEBOOK AND LET ME KNOW MY FLAWS AND VULNERABLITIES.
+BEST OF LUCK GUYS AND I WILL KEEP POSTING BASIC PROJECTS LIKE THIS ONE SO MAKE SURE YOU CHECK HAHAHA AND I NEED FEEDBACKS TOO SO YEAH YOU CAN MESSAGE ME IN FACEBOOK AND LET ME KNOW MY FLAWS AND SUGGESTIONS.
